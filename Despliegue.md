@@ -1,87 +1,62 @@
-# 🚀 Proyecto Angular desplegado en Vercel
-
-Este repositorio contiene una aplicación desarrollada con **Angular**, desplegada utilizando la plataforma **Vercel** como parte del curso **Arquitectura Distribuida**, del **9no semestre de Ingeniería de Sistemas**.
-
----
-
-## 🧾 Detalles del proyecto
-
-- 📚 **Asignatura**: Arquitectura Distribuida  
-- 🎓 **Semestre**: 9no – Ingeniería de Sistemas  
-- 👨‍💻 **Autor**: Jossuar Bohorquez  
-- 🔗 **Repositorio**: https://github.com/JOSSUAR2004/proyecto-arquitectura-distribuida
+# 🚀 ¡Despliega tu Pokédex Angular en Azure Static Web Apps! ☁️
+🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀
+**Link de la web en la nube:** https://green-tree-0de630e10.6.azurestaticapps.net/
+**Autor:** Jossuar Bohorquez 👨‍💻  
+**Repositorio:** [https://github.com/JOSSUAR2004/pokedex-definitivo]🐙  
+**Asignatura:** Sistemas Distribuidos 📚  
+**Semestre:** 9no semestre - Ingeniería de Sistemas 🎓  
+**Fecha:** 13/04/2025 📅
 
 ---
 
-## ✅ Paso a paso del despliegue en Vercel
+## 📦 Proyecto: Pokédex Angular
 
-### 1️⃣ Construcción del proyecto Angular
-
-Desde la raíz del proyecto, se ejecutó:
-
-     npm run build
-
-Esto generó el contenido estático listo para producción en la ruta:
-
-    /dist/pokedex-angular/
+Este proyecto es una Pokédex desarrollada con el poderoso framework **Angular**, y la desplegaremos como una **Web Estática** usando **Azure Static Web Apps** para aprovechar su escalabilidad y facilidad de uso. 
 
 ---
 
-### 2️⃣ Subir el proyecto a GitHub
+## 🛠️ Despliegue Paso a Paso en Azure Static Web Apps
 
-Si no estaba versionado aún, se hizo lo siguiente:
+Sigue estos pasos para llevar tu Pokédex al mundo con Azure:
 
-    git init
-    git add .
-    git commit -m "Despliegue listo"
-    git branch -M main
-    git remote add origin https://github.com/JOSSUAR2004/proyecto-arquitectura-distribuida.git
-    git push -u origin main
+### 1.  Prepara tu Proyecto Angular 💪
 
----
+* Asegúrate de que tu proyecto Angular funciona correctamente en local. Ejecuta `ng serve` para verificarlo. 
+* Construye tu proyecto para producción:
+    ```bash
+    ng build ```
 
-### 3️⃣ Conectar con Vercel
+    Esto generará la carpeta mágica `dist/`, que contiene todos los archivos optimizados listos para ser desplegados. [cite: 3]
 
-1. Ingresar a https://vercel.com
-2. Iniciar sesión con GitHub
-3. Hacer clic en “Add New Project”
-4. Seleccionar el repositorio `proyecto-arquitectura-distribuida`
+### 2.  Sube tu Código a GitHub 📂
 
----
+* Mi repositorio es: [https://github.com/JOSSUAR2004/pokedex-definitivo].
 
-### 4️⃣ Configuración del proyecto en Vercel
+### 3.  ¡A Desplegar en Azure! ☁️
 
-En el paso de configuración:
+* Ve al [Azure Portal](https://portal.azure.com) 🚪.
+* Busca y selecciona **"Static Web Apps"** y haz clic en **"Crear"**.
+* Configura los detalles de tu Web App: 
 
-- **Framework Preset**: `Other`
-- **Root Directory**: dist/proyecto-arquitectura-distribuida
-- **Build Command**: (vacío)
-- **Output Directory**: .
+    * **Nombre de la app:** `pokedex-static` (o el nombre que prefieras 🏷️)
+    * **Plan de hosting:** Selecciona el plan **"Gratis"** para empezar 🆓
+    * **Origen del código:** Elige **"GitHub"** 🐙
+    * **Detalles del repositorio:**
+        * Autoriza Azure para acceder a tu cuenta de GitHub.
+        * Selecciona tu repositorio (`pokedex-definitivo`).
+        * Elige la rama que quieres desplegar (normalmente `main` o `master`).
+    * **Detalles de compilación:**
+        * **Ruta de la aplicación:** `dist/pokedex-angular`
+        * **Build Presets:** Selecciona **"Custom"** ⚙️
+        * **Output folder:** `dist/pokedex-angular`
 
----
-
-
-
-### 6️⃣ Despliegue final
-
-- Se hizo clic en “Deploy”
-- Vercel desplegó la carpeta `dist/proyecto-arquitectura-distribuida`
-- Se obtuvo una URL pública como:
-
-    https://proyecto-arquitectura-distribuida.vercel.app
-
----
-
-## 🛡️ Observaciones
-
-- Este es un despliegue sin backend (solo frontend)
-- La app puede conectarse a servicios externos vía HTTP
-- Ideal para sitios estáticos, SPA y prototipos rápidos
-
----
+* Azure creará automáticamente un **flujo de trabajo de GitHub Actions** 🤖. Este flujo se encargará de compilar y desplegar tu Pokédex cada vez que hagas cambios en la rama seleccionada. 
 
 ## 🙌 Autor
 
 **Jossuar Bohorquez**  
 Estudiante de Ingeniería de Sistemas  
 GitHub: https://github.com/JOSSUAR2004
+
+
+
