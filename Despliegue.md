@@ -3,31 +3,33 @@
 
 
 
-**Link de la web en la nube:** https://green-tree-0de630e10.6.azurestaticapps.net/
+### Link de la web en la nube: https://green-tree-0de630e10.6.azurestaticapps.net/
 
 
 **Autor:** Jossuar Bohorquez 👨‍💻  
-**Repositorio:** [https://github.com/JOSSUAR2004/pokedex-definitivo]🐙  
+**Repositorio:**https://github.com/JOSSUAR2004/pokedex-definitivo🐙**  
 **Asignatura:** Sistemas Distribuidos 📚  
 **Semestre:** 9no semestre - Ingeniería de Sistemas 🎓  
-**Fecha:** 13/04/2025 📅
+**Fecha:** 13/04/2025 📅**
 
 ---
 
 ## 📦 Proyecto: Pokédex Angular
 
-Este proyecto es una Pokédex desarrollada con el poderoso framework **Angular**, y la desplegaremos como una **Web Estática** usando **Azure Static Web Apps** para aprovechar su escalabilidad y facilidad de uso. 
+**Este proyecto es una Pokédex desarrollada con el poderoso framework **Angular**, y la desplegaremos como una **Web Estática** usando **Azure Static Web Apps** para aprovechar su escalabilidad y facilidad de uso.** 
 
 ---
 
 ## 🛠️ Despliegue Paso a Paso en Azure Static Web Apps
 
-Sigue estos pasos para llevar tu Pokédex al mundo con Azure:
+**Sigue estos pasos para llevar tu Pokédex al mundo con Azure:**
 
 ### 1.  Prepara tu Proyecto Angular 💪
 
-* Asegúrate de que tu proyecto Angular funciona correctamente en local. Ejecuta `ng serve` para verificarlo. 
-* Construye tu proyecto para producción:
+**Asegúrate de que tu proyecto Angular funciona correctamente en local. Ejecuta `ng serve` para verificarlo.** 
+
+**Construye tu proyecto para producción:**
+***
     ```bash
      Abre una terminal desde la carpeta raiz:
      
@@ -36,21 +38,22 @@ Sigue estos pasos para llevar tu Pokédex al mundo con Azure:
      
      npm install
      
-     npm run build```
+     npm run build```**
 
     Esto generará la carpeta mágica `dist/`, que contiene todos los archivos optimizados listos para ser desplegados. 
 
 ### 2.  Sube tu Código a GitHub 📂
 
-* Mi repositorio es: [https://github.com/JOSSUAR2004/pokedex-definitivo].
+* **Mi repositorio es: [https://github.com/JOSSUAR2004/pokedex-definitivo]**
+
 
 ### 3.  ¡A Desplegar en Azure! ☁️
 
-* Ve al [Azure Portal](https://portal.azure.com) 🚪.
+* **Ve al [Azure Portal](https://portal.azure.com) 🚪**.
 
-* Busca y selecciona **"Static Web Apps"** y haz clic en **"Crear"**.
+* **Busca y selecciona **"Static Web Apps"** y haz clic en **"Crear"**.**
 
-* Configura los detalles de tu Web App: 
+* **Configura los detalles de tu Web App:** 
 
     * **Nombre de la app:** `pokedex-static` (o el nombre que prefieras 🏷️)
     
@@ -58,7 +61,7 @@ Sigue estos pasos para llevar tu Pokédex al mundo con Azure:
     * **Origen del código:** Elige **"GitHub"** 🐙
     
     * **Detalles del repositorio:**
-        * *Autoriza Azure para acceder a tu cuenta de GitHub.
+        * **Autoriza Azure para acceder a tu cuenta de GitHub.**
         
         * Selecciona tu repositorio (`pokedex-definitivo`).
         
@@ -76,5 +79,6 @@ Sigue estos pasos para llevar tu Pokédex al mundo con Azure:
 
 ## 🙌 Autor
 **Jossuar Bohorquez**  
-Estudiante de Ingeniería de Sistemas  
-GitHub: https://github.com/JOSSUAR2004
+**Estudiante de Ingeniería de Sistemas**  
+**GitHub: https://github.com/JOSSUAR2004**
+
