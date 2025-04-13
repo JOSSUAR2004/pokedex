@@ -44,21 +44,26 @@ Sigue estos pasos para llevar tu Pokédex al mundo con Azure:
 * Configura los detalles de tu Web App: 
 
     * **Nombre de la app:** `pokedex-static` (o el nombre que prefieras 🏷️)
+    
     * **Plan de hosting:** Selecciona el plan **"Gratis"** para empezar 🆓
     * **Origen del código:** Elige **"GitHub"** 🐙
+    
     * **Detalles del repositorio:**
         * Autoriza Azure para acceder a tu cuenta de GitHub.
         * Selecciona tu repositorio (`pokedex-definitivo`).
         * Elige la rama que quieres desplegar (normalmente `main` o `master`).
+        
     * **Detalles de compilación:**
+    
         * **Ruta de la aplicación:** `dist/pokedex-angular`
+        
         * **Build Presets:** Selecciona **"Custom"** ⚙️
+        
         * **Output folder:** `dist/pokedex-angular`
 
 * Azure creará automáticamente un **flujo de trabajo de GitHub Actions** 🤖. Este flujo se encargará de compilar y desplegar tu Pokédex cada vez que hagas cambios en la rama seleccionada. 
 
 ## 🙌 Autor
-
 **Jossuar Bohorquez**  
 Estudiante de Ingeniería de Sistemas  
 GitHub: https://github.com/JOSSUAR2004
