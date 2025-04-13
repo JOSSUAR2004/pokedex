@@ -49,8 +49,10 @@ Sigue estos pasos para llevar tu Pokédex al mundo con Azure:
     * **Origen del código:** Elige **"GitHub"** 🐙
     
     * **Detalles del repositorio:**
-        * Autoriza Azure para acceder a tu cuenta de GitHub.
+        * *Autoriza Azure para acceder a tu cuenta de GitHub.
+        
         * Selecciona tu repositorio (`pokedex-definitivo`).
+        
         * Elige la rama que quieres desplegar (normalmente `main` o `master`).
         
     * **Detalles de compilación:**
@@ -67,6 +69,5 @@ Sigue estos pasos para llevar tu Pokédex al mundo con Azure:
 **Jossuar Bohorquez**  
 Estudiante de Ingeniería de Sistemas  
 GitHub: https://github.com/JOSSUAR2004
-
 
 
