@@ -4,6 +4,8 @@
 
 
 **Link de la web en la nube:** https://green-tree-0de630e10.6.azurestaticapps.net/
+
+
 **Autor:** Jossuar Bohorquez 👨‍💻  
 **Repositorio:** [https://github.com/JOSSUAR2004/pokedex-definitivo]🐙  
 **Asignatura:** Sistemas Distribuidos 📚  
