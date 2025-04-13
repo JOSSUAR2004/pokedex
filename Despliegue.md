@@ -29,9 +29,16 @@ Sigue estos pasos para llevar tu Pokédex al mundo con Azure:
 * Asegúrate de que tu proyecto Angular funciona correctamente en local. Ejecuta `ng serve` para verificarlo. 
 * Construye tu proyecto para producción:
     ```bash
-    ng build ```
+     Abre una terminal desde la carpeta raiz:
+     
+     cd "sistemas-distribuidos\poke-dex-lab\source\pokedex-
+     angular\"
+     
+     npm install
+     
+     npm run build```
 
-    Esto generará la carpeta mágica `dist/`, que contiene todos los archivos optimizados listos para ser desplegados. [cite: 3]
+    Esto generará la carpeta mágica `dist/`, que contiene todos los archivos optimizados listos para ser desplegados. 
 
 ### 2.  Sube tu Código a GitHub 📂
 
@@ -40,7 +47,9 @@ Sigue estos pasos para llevar tu Pokédex al mundo con Azure:
 ### 3.  ¡A Desplegar en Azure! ☁️
 
 * Ve al [Azure Portal](https://portal.azure.com) 🚪.
+
 * Busca y selecciona **"Static Web Apps"** y haz clic en **"Crear"**.
+
 * Configura los detalles de tu Web App: 
 
     * **Nombre de la app:** `pokedex-static` (o el nombre que prefieras 🏷️)
@@ -69,5 +78,3 @@ Sigue estos pasos para llevar tu Pokédex al mundo con Azure:
 **Jossuar Bohorquez**  
 Estudiante de Ingeniería de Sistemas  
 GitHub: https://github.com/JOSSUAR2004
-
-
