@@ -13,21 +13,6 @@ Este repositorio contiene una aplicación desarrollada con **Angular**, desplega
 
 ---
 
-## ⚙️ Estructura del proyecto
-
-proyecto-arquitectura-distribuida/
-├── dist/
-│   └── pokedex-angular/
-│       ├── index.html
-│       ├── main.js
-│       ├── styles.css
-│       └── ...
-├── angular.json
-├── package.json
-└── README.md
-
----
-
 ## ✅ Paso a paso del despliegue en Vercel
 
 ### 1️⃣ Construcción del proyecto Angular
