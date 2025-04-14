@@ -7,7 +7,7 @@
 
 
 **Autor:** Jossuar Bohorquez 👨‍💻  
-**Repositorio:**https://github.com/JOSSUAR2004/pokedex-jossuar🐙**  
+**Repositorio:** https://github.com/JOSSUAR2004/pokedex-jossuar.git 🐙**  
 **Asignatura:** Sistemas Distribuidos 📚  
 **Semestre:** 9no semestre - Ingeniería de Sistemas 🎓  
 **Fecha:** 13/04/2025 📅**
