@@ -7,7 +7,7 @@
 
 
 **Autor:** Jossuar Bohorquez 👨‍💻  
-**Repositorio:**https://github.com/JOSSUAR2004/pokedex-definitivo🐙**  
+**Repositorio:**https://github.com/JOSSUAR2004/pokedex-jossuar🐙**  
 **Asignatura:** Sistemas Distribuidos 📚  
 **Semestre:** 9no semestre - Ingeniería de Sistemas 🎓  
 **Fecha:** 13/04/2025 📅**
@@ -44,7 +44,7 @@
 
 ### 2.  Sube tu Código a GitHub 📂
 
-* **Mi repositorio es: [https://github.com/JOSSUAR2004/pokedex-definitivo]**
+* **Mi repositorio es: [https://github.com/JOSSUAR2004/pokedex-jossuar]**
 
 
 ### 3.  ¡A Desplegar en Azure! ☁️
