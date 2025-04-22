@@ -3,7 +3,7 @@
 
 
 
-### Link de la web en la nube: [https://green-tree-0de630e10.6.azurestaticapps.net/](https://agreeable-wave-028fba910.6.azurestaticapps.net/)
+### Link de la web en la nube: https://white-field-0177d4a10.6.azurestaticapps.net/?version=2&type=3
 
 
 **Autor:** Jossuar Bohorquez 👨‍💻  
