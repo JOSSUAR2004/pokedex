@@ -83,6 +83,7 @@ Coloca el siguiente contenido:
 
 Azure agregará automáticamente un archivo de flujo de trabajo (`.github/workflows/azure-static-web-apps-<algo>.yml`) a tu repositorio fork.
 
+Asegurate de cambiar aquí la ruta donde se encuentra tu aplicacion
 Este archivo contiene los pasos para construir y desplegar tu aplicación cada vez que haces un cambio.
 
 ---
