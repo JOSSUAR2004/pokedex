@@ -3,11 +3,11 @@
 
 
 
-### Link de la web en la nube: https://white-field-0177d4a10.6.azurestaticapps.net/?version=2&type=3
+### Link de la web en la nube: https://agreeable-wave-028fba910.6.azurestaticapps.net/
 
 
 **Autor:** Jossuar Bohorquez 👨‍💻  
-**Repositorio:**https://github.com/JOSSUAR2004/jossuarpoke 🐙**  
+**Repositorio:**https://github.com/JOSSUAR2004/pokedex-jossuar 🐙**  
 **Asignatura:** Sistemas Distribuidos 📚  
 **Semestre:** 9no semestre - Ingeniería de Sistemas 🎓  
 **Fecha:** 13/04/2025 📅**
