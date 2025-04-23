@@ -111,3 +111,7 @@ Puedes:
 - Configurar un dominio personalizado desde el portal de Azure.
 
 ---
+## 🙌 Autor
+**Jossuar Bohorquez**  
+**Estudiante de Ingeniería de Sistemas**  
+**GitHub: https://github.com/JOSSUAR2004**
