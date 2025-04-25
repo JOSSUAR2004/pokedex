@@ -76,6 +76,19 @@ Coloca el siguiente contenido:
 ```
 
 📌 Este archivo debe estar en la raíz del **directorio de salida** (por ejemplo, dentro de la carpeta `dist/` si usas Angular, o `build/` si usas React).
+##  ✅  Explicación Técnica: Headers de Seguridad
+
+**Content-Security-Policy**  
+Establece reglas estrictas sobre qué recursos pueden cargarse, previniendo ataques XSS e inyección de código malicioso.
+
+**HTTP Strict Transport Security**  
+Fuerza conexiones HTTPS y previene ataques de downgrade, con cache prolongado para mejor performance.
+
+**X-Content-Type-Options**  
+Anula el "MIME sniffing" del navegador, evitando ejecución de archivos como código ejecutable.
+
+**Feature-Policy**  
+Controla el acceso a APIs del navegador como geolocalización o cámara, reduciendo superficie de ataque.
 
 ---
 
@@ -110,7 +123,9 @@ Puedes:
 - Visitar la URL para ver tu sitio.
 - Configurar un dominio personalizado desde el portal de Azure.
 
----
+## 6. 🌐 DIAGRAMA DE INFRAESTRUCTURA
+![enter image description here](https://lucid.app/lucidchart/bd0c16bf-a5e6-4f54-94c9-d0a069f74314/edit?viewport_loc=-2660,-2709,8888,4232,0_0&invitationId=inv_17a596b0-c530-47d7-bd19-d7989c003400)
+
 ## 🙌 Autor
 **Jossuar Bohorquez**  
 **Estudiante de Ingeniería de Sistemas**  
