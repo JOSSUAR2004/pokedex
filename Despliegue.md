@@ -44,7 +44,7 @@
 
 ### 2.  Sube tu Código a GitHub 📂
 
-* **Mi repositorio es: [https://github.com/JOSSUAR2004/jossuarpoke]**
+* **Mi repositorio es: https://github.com/JOSSUAR2004/pokedex-jossuar**
 
 
 ### 3.  ¡A Desplegar en Azure! ☁️
