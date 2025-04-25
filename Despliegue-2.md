@@ -124,7 +124,7 @@ Puedes:
 - Configurar un dominio personalizado desde el portal de Azure.
 
 ## 6. 🌐 DIAGRAMA DE INFRAESTRUCTURA
-![enter image description here](https://lucid.app/lucidchart/bd0c16bf-a5e6-4f54-94c9-d0a069f74314/edit?viewport_loc=-2660,-2709,8888,4232,0_0&invitationId=inv_17a596b0-c530-47d7-bd19-d7989c003400)
+![](https://i.imgur.com/cZeIAgN.png)
 
 ## 🙌 Autor
 **Jossuar Bohorquez**  
